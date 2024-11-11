@@ -1,0 +1,256 @@
+{
+  "emotions": [
+    {
+      "name": "Admiration",
+      "color": "Gold or warm yellow",
+      "reason": "Gold symbolizes respect and a sense of accomplishment, enhancing positive emotions.",
+      "comforting_language": [
+        "Your admiration is precious; it brings positive energy. Keep appreciating the good around you."
+      ],
+      "behavioral_guidance": "Take a moment to express your appreciation to someone."
+    },
+    {
+      "name": "Amusement",
+      "color": "Bright orange",
+      "reason": "Orange symbolizes joy and vitality, promoting a lighthearted atmosphere.",
+      "comforting_language": [
+        "It’s great to see you happy! Let this orange lift your mood."
+      ],
+      "behavioral_guidance": "Share a funny story or joke with someone."
+    },
+    {
+      "name": "Anger",
+      "color": "Red",
+      "reason": "Red conveys strong emotions and can help channel suppressed feelings.",
+      "comforting_language": [
+        "Your anger is valid; take a deep breath and feel this red energy."
+      ],
+      "behavioral_guidance": "Channel your energy into a physical activity."
+    },
+    {
+      "name": "Annoyance",
+      "color": "Bright yellow",
+      "reason": "Yellow can stimulate positive emotions and help alleviate annoyance.",
+      "comforting_language": [
+        "Feeling annoyed is understandable; let this yellow brighten your mood."
+      ],
+      "behavioral_guidance": "Take a short break to clear your mind."
+    },
+    {
+      "name": "Approval",
+      "color": "Warm green",
+      "reason": "Green symbolizes harmony and balance, bringing a sense of comfort.",
+      "comforting_language": [
+        "Your feelings of approval matter; let this green calm you."
+      ],
+      "behavioral_guidance": "Share your approval with someone to uplift them."
+    },
+    {
+      "name": "Caring",
+      "color": "Soft green",
+      "reason": "Green represents growth and healing, conveying warmth and care.",
+      "comforting_language": [
+        "Your caring nature is precious; let this green support you."
+      ],
+      "behavioral_guidance": "Reach out to someone who needs your support."
+    },
+    {
+      "name": "Confusion",
+      "color": "Neutral gray",
+      "reason": "Gray can provide a sense of calmness, helping to clarify thoughts.",
+      "comforting_language": [
+        "Feeling confused is normal; let this gray bring you clarity."
+      ],
+      "behavioral_guidance": "Write down your thoughts to sort them out."
+    },
+    {
+      "name": "Curiosity",
+      "color": "Bright blue",
+      "reason": "Blue symbolizes wisdom and exploration, inspiring a thirst for knowledge.",
+      "comforting_language": [
+        "Your curiosity is inspiring! Let this blue motivate you."
+      ],
+      "behavioral_guidance": "Ask questions and seek out new experiences."
+    },
+    {
+      "name": "Desire",
+      "color": "Passionate red",
+      "reason": "Red conveys intensity and longing, igniting motivation.",
+      "comforting_language": [
+        "Your strong desire is powerful; let this red ignite your dreams."
+      ],
+      "behavioral_guidance": "Set a small goal related to your desire."
+    },
+    {
+      "name": "Disappointment",
+      "color": "Light blue",
+      "reason": "Light blue can provide a calming effect, helping to ease feelings of disappointment.",
+      "comforting_language": [
+        "Disappointment is part of life; let this blue comfort you."
+      ],
+      "behavioral_guidance": "Reflect on what you can learn from this experience."
+    },
+    {
+      "name": "Disapproval",
+      "color": "Dark green",
+      "reason": "Dark green conveys stability and reflection, aiding in understanding and communication.",
+      "comforting_language": [
+        "Feeling disapproval is valid; let this dark green help you reflect."
+      ],
+      "behavioral_guidance": "Discuss your feelings with someone you trust."
+    },
+    {
+      "name": "Disgust",
+      "color": "Olive green",
+      "reason": "Olive green conveys a sense of freshness and cleansing, aiding in processing feelings of disgust.",
+      "comforting_language": [
+        "Your disgust is a valid reaction; let this green help you let go."
+      ],
+      "behavioral_guidance": "Take a moment to cleanse your space or mind."
+    },
+    {
+      "name": "Embarrassment",
+      "color": "Soft pink",
+      "reason": "Pink brings warmth and understanding, helping to alleviate feelings of embarrassment.",
+      "comforting_language": [
+        "Feeling embarrassed is natural; let this soft pink warm your heart."
+      ],
+      "behavioral_guidance": "Share your feelings with a friend to lighten the load."
+    },
+    {
+      "name": "Excitement",
+      "color": "Bright yellow",
+      "reason": "Yellow symbolizes positivity and vitality, enhancing feelings of excitement.",
+      "comforting_language": [
+        "Your excitement is amazing! Let this yellow energize you."
+      ],
+      "behavioral_guidance": "Plan something fun to look forward to."
+    },
+    {
+      "name": "Fear",
+      "color": "Deep blue",
+      "reason": "Deep blue can convey calmness and stability, helping to alleviate feelings of fear.",
+      "comforting_language": [
+        "Feeling fear is normal; let this deep blue comfort you."
+      ],
+      "behavioral_guidance": "Identify your fear and discuss it with someone."
+    },
+    {
+      "name": "Gratitude",
+      "color": "Warm gold",
+      "reason": "Gold symbolizes appreciation and abundance, enhancing feelings of happiness.",
+      "comforting_language": [
+        "Gratitude is beautiful; let this gold remind you of the good."
+      ],
+      "behavioral_guidance": "Write down three things you’re grateful for."
+    },
+    {
+      "name": "Grief",
+      "color": "Deep purple",
+      "reason": "Deep purple conveys depth and contemplation, suitable for processing grief.",
+      "comforting_language": [
+        "Your grief is valid; let this deep purple support you."
+      ],
+      "behavioral_guidance": "Allow yourself to feel and process your emotions."
+    },
+    {
+      "name": "Joy",
+      "color": "Bright orange",
+      "reason": "Orange symbolizes vitality and happiness, enhancing feelings of joy.",
+      "comforting_language": [
+        "Your joy is uplifting; let this bright orange fill your life."
+      ],
+      "behavioral_guidance": "Celebrate your joy with friends or family."
+    },
+    {
+      "name": "Love",
+      "color": "Warm red",
+      "reason": "Red symbolizes passion and love, conveying the depth of emotions.",
+      "comforting_language": [
+        "Love is powerful; let this warm red nourish your spirit."
+      ],
+      "behavioral_guidance": "Express your love to someone special."
+    },
+    {
+      "name": "Nervousness",
+      "color": "Light blue",
+      "reason": "Light blue helps to relax emotions and alleviate nervousness.",
+      "comforting_language": [
+        "Feeling nervous is normal; let this light blue help you relax."
+      ],
+      "behavioral_guidance": "Practice deep breathing exercises."
+    },
+    {
+      "name": "Optimism",
+      "color": "Bright yellow",
+      "reason": "Yellow symbolizes sunlight and hope, enhancing positive emotions.",
+      "comforting_language": [
+        "Your optimism is inspiring; let this bright yellow fill you."
+      ],
+      "behavioral_guidance": "Visualize a positive outcome for your goals."
+    },
+    {
+      "name": "Pride",
+      "color": "Purple",
+      "reason": "Purple symbolizes nobility and achievement, enhancing confidence.",
+      "comforting_language": [
+        "I’m proud of your accomplishments; let this purple inspire you."
+      ],
+      "behavioral_guidance": "Reflect on your achievements and celebrate them."
+    },
+    {
+      "name": "Realization",
+      "color": "Bright green",
+      "reason": "Green symbolizes growth and renewal, suitable for expressing the changes that come with realization.",
+      "comforting_language": [
+        "Realization is growth; let this bright green represent new insights."
+      ],
+      "behavioral_guidance": "Share your realization with someone."
+    },
+    {
+      "name": "Relief",
+      "color": "Soft blue",
+      "reason": "Soft blue conveys peace and calmness, suitable for feelings of relief.",
+      "comforting_language": [
+        "Feeling relief is wonderful; let this soft blue bring you peace."
+      ],
+      "behavioral_guidance": "Take a moment to relax and breathe deeply."
+    },
+    {
+      "name": "Remorse",
+      "color": "Deep blue",
+      "reason": "Deep blue aids in reflection and introspection, suitable for processing remorse.",
+      "comforting_language": [
+        "Feeling remorse is human; let deep blue guide your reflection."
+      ],
+      "behavioral_guidance": "Consider ways to make amends."
+    },
+    {
+      "name": "Sadness",
+      "color": "Deep blue or gray",
+      "reason": "Both colors convey deep emotions, suitable for expressing sadness.",
+      "comforting_language": [
+        "Your sadness is real; let deep blue support your healing."
+      ],
+      "behavioral_guidance": "Talk to someone about your feelings."
+    },
+    {
+      "name": "Surprise",
+      "color": "Bright yellow or orange",
+      "reason": "Bright colors convey excitement and novelty.",
+      "comforting_language": [
+        "Surprise can bring new perspectives; let this bright color energize you."
+      ],
+      "behavioral_guidance": "Embrace the unexpected and explore new possibilities."
+    },
+    {
+      "name": "Neutral",
+      "color": "Soft gray",
+      "reason": "Gray provides a calm and neutral feeling, suitable for maintaining balance.",
+      "comforting_language": [
+        "In this neutral moment, let soft gray bring you peace."
+      ],
+      "behavioral_guidance": "Take a moment to pause and reflect."
+    }
+  ]
+}
